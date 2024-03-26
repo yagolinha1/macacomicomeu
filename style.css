@@ -1,0 +1,12 @@
+nav{
+    background-image: url(download.jpg);
+    height: 300px;
+    width: 400px;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+li{
+    color: white;
+    display: inline;
+}
