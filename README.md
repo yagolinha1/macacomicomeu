@@ -7,7 +7,7 @@ este projetofoi desenvolvido em aula
 ## estrutura do projeto
 projetotop/
 projetotop/index.html
-projetototop?slyle.css
+projetototop/slyle.css
 
 ## como visualizar o site
 para visualizar o site, basta abrir o arquivo "index.html"
